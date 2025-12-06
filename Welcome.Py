@@ -1,0 +1,5 @@
+print("Welcome to Hogwarts School of Witchcraft and Wizardry!")
+print("What is your name dear?")
+name=input()
+print("Welcome",name,"to the magical world of Hogwarts!")
+print("Let the magic begin!")
